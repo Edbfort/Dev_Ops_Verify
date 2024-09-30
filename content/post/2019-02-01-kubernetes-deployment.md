@@ -8,6 +8,7 @@ First application on Kubernetes using Kubernetes deployments
 
 <!--more-->
 
+Use the following Bash code:
 ```sh
     $ kubectl run kubernetes-bootcamp --image=gcr.io/google-samples/kubernetes-bootcamp:v1 --port=8080
 ```
