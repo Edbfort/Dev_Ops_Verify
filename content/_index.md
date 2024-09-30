@@ -1,3 +1,2 @@
-# Fix header error
-### Start DevOps journey now!
+# Start DevOps journey now!
 
